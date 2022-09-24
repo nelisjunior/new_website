@@ -1,1 +1,0 @@
-curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/7bc807cf-9c6a-44c8-913f-b6d8069dd45c"
